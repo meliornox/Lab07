@@ -1,0 +1,7 @@
+Monopoly						
+						
+Player(ID, emailAddress, name)			
+PlayerGame(ID, gameID, playerID, score, cash, playerLocation)
+Game(ID, time)
+Property(ID, color)
+PlayerGameProperty(playerGameID, propertyID, hotelsOrHouses, number)
